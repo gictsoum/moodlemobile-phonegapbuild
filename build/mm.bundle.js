@@ -37523,7 +37523,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "demo_sites": "",
     "siteurl":"http://inspire.oum.edu.my",
-    "gcmpn": "353552729607",
+    "gcmpn": "657020368707",
     "customurlscheme": "moodlemobile"
 }
 );
