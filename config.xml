@@ -5,10 +5,10 @@
         id        = "com.oum.myinspire"
         versionCode = "2014"
         version   = "3.1.21">
-    <name>Moodle Mobile</name>
+    <name>myINSPIRE Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        myINSPIRE Mobile official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">

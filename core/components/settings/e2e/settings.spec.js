@@ -99,7 +99,7 @@ describe('User can change App settings', function() {
         }).then(function () {
             return MM.clickOn('About');
         }).then(function () {
-            expect(MM.getView().getText()).toMatch('Moodle Mobile 3.1.0');
+            expect(MM.getView().getText()).toMatch('myINSPIRE Mobile 3.1.0');
             return MM.goBack();
         }).then(function(){
             done();

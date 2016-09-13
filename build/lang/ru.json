@@ -454,7 +454,7 @@
     "mm.question.notyetanswered": "Пока нет ответа",
     "mm.question.partiallycorrect": "Частично верно",
     "mm.settings.about": "О приложении",
-    "mm.settings.appname": "Moodle Mobile {{version}}",
+    "mm.settings.appname": "myINSPIRE Mobile {{version}}",
     "mm.settings.cacheexpirationtime": "Срок действия кэша (миллисекунд)",
     "mm.settings.credits": "Разработчики",
     "mm.settings.currentlanguage": "Выбранный язык",
