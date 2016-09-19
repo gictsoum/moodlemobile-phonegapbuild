@@ -37514,7 +37514,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.oum.myinspire",
-    "versioncode" : "2014",
+    "versioncode" : "30103",
     "versionname" : "3.1.3",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
