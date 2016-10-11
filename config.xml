@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.oum.myinspire"
-        versionCode = "30103"
-        version   = "3.1.3">
+        versionCode = "30104"
+        version   = "3.1.4">
     <name>myINSPIRE Mobile</name>
 
     <description>
@@ -16,7 +16,7 @@
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>3.1.3</string>
+        <string>3.1.4</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
@@ -119,7 +119,7 @@
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
 
     <gap:plugin name="phonegap-plugin-push" source="npm" version="1.7.0">
-        <param name="SENDER_ID" value="694767596569" />
+        <param name="SENDER_ID" value="657020368707" />
     </gap:plugin>
     <gap:plugin name="net.tunts.webintent" />
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
